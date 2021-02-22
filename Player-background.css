@@ -1,0 +1,14 @@
+
+@charset "UTF-8";
+/* CSS Document */
+
+.mwEmbedPlayer.mwEmbedPlayerBlackBkg{
+background-color:rgba(255, 255, 255);
+}
+
+.playlistAPI .k-vertical.k-medialist-header{
+    display: none; 
+}
+
+
+
